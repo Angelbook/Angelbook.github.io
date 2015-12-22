@@ -1,11 +1,15 @@
 p {
-    color: #FF0000;
+    color: #ffffff;
 }
 
 h1 {
-    color: #1100FF;
+    color: #ccffff;
 }
 
 h2 {
-	color:#AA0000;
+	color:#80ffff
+}
+
+body{
+	background-color: #000000;
 }
